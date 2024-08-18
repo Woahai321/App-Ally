@@ -1,0 +1,13 @@
+{
+    "applications": {
+        "example1": {
+            "start_command": "cd '/path/to/example1' && sudo npm start",
+            "log_file": "/tmp/example1.log"
+        },
+        "example2": {
+            "directory": "/path/to/example2",
+            "start_command": "cd '/path/to/example2' && sudo node server/server.js",
+            "log_file": "/tmp/example2.log"
+        }
+    }
+}
