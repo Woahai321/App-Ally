@@ -135,6 +135,17 @@ For any inquiries or support, please contact [Soluify™](https://soluify.com/co
 
 ---
 
+## 💰 Donations
+
+If you find our work useful and would like to support us, feel free to make a donation using the addresses below:
+
+- BTC (Bitcoin): `bc1qxjpfszwvy3ty33weu6tjkr394uq30jwkysp4x0`
+- ETH (Ethereum): `0xAF3ADE79B7304784049D200ea50352D1C717d7f2`
+
+Thank you for your support!
+
+---
+
 By using App Ally, you agree to the terms and conditions outlined by Soluify™. Happy managing!
 
 ---
